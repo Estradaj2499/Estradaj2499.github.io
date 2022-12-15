@@ -4,7 +4,7 @@ This is my home page! My name is Jonathan Estrada and I am a student at [Cal Sta
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/estradaj2499.
+My GitHub page is http://github.com/estradaj2499.github.io.
 
 ### CPSC 120
 
